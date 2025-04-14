@@ -1,8 +1,9 @@
 # Portfolio
+## This portfolio is a compilation of some of the major data analytics projects I have done during my learning journey.
 ---
-## Natural Language Processing
+## Projects:
 
-### CS224n: Natural Language Processing with Deep Learning
+### Project 1: Bellabeat-Smart-Device-Analysis
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
