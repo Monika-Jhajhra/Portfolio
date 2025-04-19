@@ -3,107 +3,109 @@
 ---
 ## Projects:
 
-### Project 1: Bellabeat-Smart-Device-Analysis
-
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+### Project 1: Bellabeat Smart Device Analysis
 
 <center><img src="images/nlp.png"/></center>
 
----
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+**Overview:** Analyzed Fitbit data to uncover trends in user activity, sleep, and sedentary behavior. 
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+**Goal:** What are trends in smart device usage and how could these trends apply to Bellabeat customers and shape Bellabeat's marketing strategy.
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+**Skills:** Data Exploration(EDA), SQL(DDL, DML, CTEs, Window functions, CASE statements, Joins), Problem Solving, Dashboard Building( Calculated Fields, Parameters, Dashboard Layout Containers, Dynamic Filters, etc.)
 
-<center><img src="images/BERT-classification.png"/></center>
+**Tools Used:** MS SQL Server, Tableau, Visual Studio Code with GitHub Copilot
 
----
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+**Result:** 
+1. Identified User Behavior trends.
+2. Improved Customer engagement with data-driven recommendations.
+3. Created effective Marketing Strategies.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Bellabeat-Smart-Device-Analysis)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
+[![Dashboard Link](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://public.tableau.com/app/profile/monika8001/viz/BellabeatSmartDeviceAnalysis_17409392443150/IntroDashboard)
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
+### Project 2: Customer Segmentation Analysis
 
----
-## Data Science
+<center><img src="images/nlp.png"/></center>
 
-### Credit Risk Prediction Web App
+**Overview:** This project focusses on segmenting customer base using various data analysis technique to gain insights into their behavior, preferences and response to marketing campaigns. 
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+**Goal:** To help business better understand their customers and tailor their marketing strategies for maximum effectiveness.
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
-<br>
-<center><img src="images/credit-risk-webapp.png"/></center>
-<br>
+**Skills:** EDA, data transformations and aggregations, customer segmentations, RFM Analysis (Recency, Frequency, Monetary Value), Data Visualization.
+
+**Tools Used:** Python (libraries used- Pandas, Matplotlib, Seaborn, Plotly)
+
+**Result:** 
+1. Targeted campaigns based on income segments.
+2. Improving campaign effectiveness.
+3. Retaining key customer segments, leveraging demographic insights.
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project)
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Project 3: Electric Vehicle Market Analysis
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+<center><img src="images/nlp.png"/></center>
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
+**Overview:** This project analyzes Electric Vehicle market in India, focusing on market trends, sales growth and revenue projections.The analysis aims to support AtliQ Motors in understanding the current EV landscape and informing their expansion strategy in the Indian market.
 
----
-### Predict Breast Cancer with RF, PCA and SVM using Python
+**Goal:** 
+1. Analyze EV sales data to identify growth trends.
+2. Determine the competitive landscape in the Indian EV market.
+3. Recommend optimal Indian states for launching new EV products.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+**Skills:** data collection, data cleaning, SQL( DDL, DML, CTEs, etc), Mathematical techniques, Data Visualization, Powerpoint Report.
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
-<br>
-<center><img src="images/breast-cancer.png"/></center>
-<br>
+**Tools Used:** MS SQL Server, Tableau, Powerpoint.
 
----
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+**Result:** 
+1. *Growth Trends:* Significant growth observed in the 2-Wheeler and 4-Wheeler segments from 2022 to 2024.
+2. *Market opportunities:* Identified Indian states with high potential for new EV launches.
+3. *Competitor landscape:* Overview of key competitors and their market share.
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/EV-Market-Analysis-Project)
 
 ---
-## Filmed by me
+### Project 4: Book Recommendation System
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+<center><img src="images/nlp.png"/></center>
 
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
+**Overview:** This project is a Content-based Book Recommendation System that suggests books similar to the one provided by the users. It analyzes various features of the input book and finds the most relevant matches using text-based similarity techniques.
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+**Goal:** To built a content-based filtering system that recommends books similar to a given book title using metadata such as the books title, author, description, etc.
+
+**Skills:** Data cleaning & preprocessing, Text Vectorization, Similarity measurement, Text Processing with NLTK, Feature Engineering, EDA
+
+**Tools Used:** Python ( Pandas – for data manipulation, Seaborn & Matplotlib – for data visualization ,scikit-learn – for cosine similarity, MinMaxScaler, and TfidfVectorizer,
+NLTK – for text preprocessing (stopwords, lemmatization))
+
+**Result:** 
+1. Sucessfully recommends top 10 books similar to a given title.
+2. Tested with several book titles- results were relevant, meaningful, and aligned well with input themes.
+3. Effecient performance even on a large dataset with thousands of books.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Book-Recommendation-System)
 
 ---
+### Project 5: Coffee Beans Sales Dashboard
+
+<center><img src="images/nlp.png"/></center>
+
+**Overview:** This project features a Dynamic Sales Dashboard built in Microsoft Excel to analyze and visualize sales performance data for a Coffee Beans business. It provides valuable insights into total sales and profit by country-wise and time-based to support data-driven decisions.
+
+**Goal:** To design an interactive excel dashboard that allows stakeholders to monitor key sales metrics, identify top performing products/ cities and track sales trends over time.
+
+**Skills:** Data aggregation, Dashboard design, metric building, data analysis.
+
+**Tools Used:** Microsoft Excel (Pivot Tables & Pivot Charts, Slicers for interactivity, etc.)
+
+**Result:** 
+1. Identified Profit by Coffee Type and Profit % by packet size.
+2. Identified top 3 best performing cities.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
+
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
