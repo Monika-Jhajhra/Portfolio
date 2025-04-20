@@ -67,7 +67,7 @@
 2. *Market opportunities:* Identified Indian states with high potential for new EV launches.
 3. *Competitor landscape:* Overview of key competitors and their market share.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/EV-Market-Analysis-Project)
+[![View Report](https://img.shields.io/badge/View Report-orange?logo=Excel)](https://github.com/Monika-Jhajhra/EV-Market-Analysis-Project/blob/main/Electric%20Vehicle%20Market%20Analysis.pdf)
 
 ---
 ### Project 4: Book Recommendation System
