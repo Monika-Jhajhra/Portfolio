@@ -22,7 +22,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Bellabeat-Smart-Device-Analysis)
 
-[![Dashboard Link](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=GitHub)](https://public.tableau.com/app/profile/monika8001/viz/BellabeatSmartDeviceAnalysis_17409392443150/IntroDashboard)
+[![Dashboard Link](https://img.shields.io/badge/Tableau-Dashboard-red?logo=Tableau)](https://public.tableau.com/app/profile/monika8001/viz/BellabeatSmartDeviceAnalysis_17409392443150/IntroDashboard)
 
 ---
 
