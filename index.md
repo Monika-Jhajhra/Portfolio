@@ -5,7 +5,7 @@
 
 ### Project 1: Bellabeat Smart Device Analysis
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="Bellabeat Project Image 2.png"/></center>
 
 **Overview:** Analyzed Fitbit data to uncover trends in user activity, sleep, and sedentary behavior. 
 
@@ -25,11 +25,9 @@
 [![Dashboard Link](https://img.shields.io/badge/Tableau-Dashboard-red?logo=Tableau)](https://public.tableau.com/app/profile/monika8001/viz/BellabeatSmartDeviceAnalysis_17409392443150/IntroDashboard)
 
 ---
-
-
 ### Project 2: Customer Segmentation Analysis
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="Customer Segmentation Project Image.png"/></center>
 
 **Overview:** This project focusses on segmenting customer base using various data analysis technique to gain insights into their behavior, preferences and response to marketing campaigns. 
 
@@ -49,7 +47,7 @@
 ---
 ### Project 3: Electric Vehicle Market Analysis
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="EV Project Image.png"/></center>
 
 **Overview:** This project analyzes Electric Vehicle market in India, focusing on market trends, sales growth and revenue projections.The analysis aims to support AtliQ Motors in understanding the current EV landscape and informing their expansion strategy in the Indian market.
 
@@ -72,7 +70,7 @@
 ---
 ### Project 4: Book Recommendation System
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="Book Rec Project Image.png"/></center>
 
 **Overview:** This project is a Content-based Book Recommendation System that suggests books similar to the one provided by the users. It analyzes various features of the input book and finds the most relevant matches using text-based similarity techniques.
 
@@ -93,7 +91,7 @@ NLTK – for text preprocessing (stopwords, lemmatization))
 ---
 ### Project 5: Coffee Beans Sales Dashboard
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="Coffee Sales Dash Image.png"/></center>
 
 **Overview:** This project features a Dynamic Sales Dashboard built in Microsoft Excel to analyze and visualize sales performance data for a Coffee Beans business. It provides valuable insights into total sales and profit by country-wise and time-based to support data-driven decisions.
 
