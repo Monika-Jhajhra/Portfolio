@@ -19,9 +19,10 @@
 1. Identified User Behavior trends.
 2. Improved Customer engagement with data-driven recommendations.
 3. Created effective Marketing Strategies.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Bellabeat-Smart-Device-Analysis)
 
-[![Dashboard Link](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://public.tableau.com/app/profile/monika8001/viz/BellabeatSmartDeviceAnalysis_17409392443150/IntroDashboard)
+[![Dashboard Link](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=GitHub)](https://public.tableau.com/app/profile/monika8001/viz/BellabeatSmartDeviceAnalysis_17409392443150/IntroDashboard)
 
 ---
 
@@ -43,7 +44,7 @@
 2. Improving campaign effectiveness.
 3. Retaining key customer segments, leveraging demographic insights.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation%20Analysis.ipynb)
 
 ---
 ### Project 3: Electric Vehicle Market Analysis
