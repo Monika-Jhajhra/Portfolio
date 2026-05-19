@@ -5,7 +5,7 @@
 
 ### Project 1: Wearable Device Usage Analysis: Uncovering Health & Activity Patterns
 
-<center><img src="Bellabeat Project Image 2.png"/></center>
+<center><img src="PA Dashboard (1).png"/></center>
 
 **Overview:** Analyzed Fitbit smart device data to uncover trends in user activity, sleep, and sedentary behavior, and translated findings into actionable product and marketing recommendations for Bellabeat — a health-tech company creating smart wellness products for women.
 
