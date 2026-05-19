@@ -3,22 +3,24 @@
 ---
 ## Projects:
 
-### Project 1: Bellabeat Smart Device Analysis
+### Project 1: Wearable Device Usage Analysis: Uncovering Health & Activity Patterns
 
 <center><img src="Bellabeat Project Image 2.png"/></center>
 
-**Overview:** Analyzed Fitbit data to uncover trends in user activity, sleep, and sedentary behavior. 
+**Overview:** Analyzed Fitbit smart device data to uncover trends in user activity, sleep, and sedentary behavior, and translated findings into actionable product and marketing recommendations for Bellabeat — a health-tech company creating smart wellness products for women.
 
-**Goal:** What are trends in smart device usage and how could these trends apply to Bellabeat customers and shape Bellabeat's marketing strategy.
+**Goal:** Identify trends in smart device usage, apply them to Bellabeat's customer base, and shape a data-driven marketing strategy for the Bellabeat Time wellness watch.
 
-**Skills:** Data Exploration(EDA), SQL(DDL, DML, CTEs, Window functions, CASE statements, Joins), Problem Solving, Dashboard Building( Calculated Fields, Parameters, Dashboard Layout Containers, Dynamic Filters, etc.)
+**Skills:** EDA, SQL (DDL, DML, CTEs, Window Functions, CASE Statements, Joins), Dashboard Design (LOD Expressions, Calculated Fields, Parameters, Layout Containers, Dynamic Filters, Light/Dark Mode), Data Storytelling
 
-**Tools Used:** MS SQL Server, Tableau, Visual Studio Code with GitHub Copilot
+**Tools Used:** MS SQL Server, Tableau, Visual Studio Code, GitHub Copilot
 
-**Result:** 
-1. Identified User Behavior trends.
-2. Improved Customer engagement with data-driven recommendations.
-3. Created effective Marketing Strategies.
+**Results:**
+1. Users average **7,500 steps/day** — 25% below WHO's 10,000 step recommendation — with **81% of daily time spent sedentary** (16.4 hrs).
+2. Average sleep is **6.3 hrs/night**, creating a 10.5 hr weekly sleep deficit; users lose 42 mins nightly lying awake in bed.
+3. Identified **54% of users as lightly active** — the prime Bellabeat target segment — with peak activity occurring in the evening (5–7 PM).
+4. Recommended 3 Bellabeat product features: 60-min inactivity alert, bedtime wind-down notification, and weekday habit-building challenges.
+5. Proposed marketing strategy: lead with the sleep gap story and schedule campaigns at 5–7 PM to align with peak user motivation.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Bellabeat-Smart-Device-Analysis)
 
