@@ -109,4 +109,24 @@ NLTK – for text preprocessing (stopwords, lemmatization))
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
 
+---
+### Project 6: Growth Opportunities Identification & A/B Testing: Uncovering Conversion Gaps & Validating Content Quality
 
+<center><img src="ab_test_image.png"/></center>
+
+**Overview:** Analyzed an online travel platform's hotel inventory and booking data to identify high-traffic, low-conversion hotels, quantify revenue loss, and validate content quality improvements through statistically rigorous A/B testing — translating SQL-driven opportunity analysis into actionable, experiment-backed business decisions.
+
+**Goal:** Identify underperforming hotels using benchmark analysis, estimate revenue opportunity gaps, and determine whether improving hotel content quality leads to a statistically significant increase in conversion rate.
+
+**Skills:** SQL (CTEs, JOINs, Window Functions, KPI Analysis, Benchmark Comparison, Revenue Opportunity Analysis), A/B Testing & Hypothesis Testing (Two-Proportion Z-Test, Confidence Intervals, Guardrail Metrics), EDA, Statistical Analysis, Business Problem Solving
+
+**Tools Used:** MS SQL Server, Python (Pandas, NumPy, SciPy, Statsmodels), Jupyter Notebook, GitHub
+
+**Results:**
+1. Identified hotels with **high impressions but low CVR** — flagged as immediate revenue recovery opportunities using benchmark comparison in SQL.
+2. Estimated **revenue gap** across underperforming hotels by comparing actual vs. benchmark conversion rates on trailing 90-day data.
+3. Poor **content quality and pricing competitiveness** were the primary drivers of booking underperformance; inventory gaps further reduced revenue potential.
+4. A/B test confirmed that improving hotel content quality produced a **statistically significant conversion uplift** (two-proportion z-test, p < 0.05).
+5. Guardrail metric checks and pre-experiment balance validation ensured experiment integrity before drawing conclusions.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Growth-Opportunities-Identification-and-A-B-Testing)
