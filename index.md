@@ -28,11 +28,11 @@
 
 ---
 ### Project 2: Customer Segmentation Analysis
-<center><img src="Customer Segmentation Project Image.png"/></center>
+<center><img src="customer_segments_image.png"/></center>
 
 **Overview:** Analysed a 2,240-customer retail CRM dataset to identify why uniform marketing campaigns were generating low conversions. Used the RFM (Recency, Frequency, Monetary) framework to segment customers by actual purchasing behaviour and mapped 5 named campaigns to the segments that converted best.
 
-**Goal:** To give the marketing team a data-backed answer to: *"Who are our customers really, and what's the smartest way to reach each group?"*
+**Goal:** To give the marketing team a data-backed answer to: **"Who are our customers really, and what's the smartest way to reach each group?"**
 
 **Skills:** Data cleaning & outlier detection, feature engineering, RFM segmentation, ANOVA statistical validation, campaign conversion rate analysis, Data Visualization.
 
@@ -43,7 +43,7 @@
 2. Found Campaign 2 (New Arrivals Push) underperforming at <1.5% conversion — recommended pausing and reallocating budget.
 3. Delivered 6 prioritised actions with estimated revenue impact of **~$170K–$255K**.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation%20Analysis.ipynb)
+[![Open Notebook](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation.ipynb)
 
 ---
 ### Project 3: Electric Vehicle Market Analysis
