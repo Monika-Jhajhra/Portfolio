@@ -126,23 +126,37 @@ Pivot Charts, calculated fields, KPI reporting, dashboard design, business insig
 [![Open Dashboard](https://img.shields.io/badge/Excel-Open_Dashboard-217346?logo=microsoftexcel&logoColor=white)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
 
 ---
-### Project 6: Growth Opportunities Identification & A/B Testing: Uncovering Conversion Gaps & Validating Content Quality
+### Project 1: Growth Analytics & A/B Testing — Hotel Platform Analysis
+<center><img src="AB Testing Project Image.png"/></center>
 
-<center><img src="ab_test_image.png"/></center>
+**Overview:** A two-part growth analysis on a hotel booking platform's mid-tail hotel 
+portfolio. First used SQL across 6 relational tables to identify exactly where and why 
+hotels were underperforming their market benchmark CVR — quantifying revenue gaps and 
+classifying every hotel into a failure mode (content, pricing, inventory, or visibility). 
+Then designed and ran a 6-week A/B experiment to test whether improving listing content 
+scores from <60 to >60 would lift conversion rate.
 
-**Overview:** Analyzed an online travel platform's hotel inventory and booking data to identify high-traffic, low-conversion hotels, quantify revenue loss, and validate content quality improvements through statistically rigorous A/B testing — translating SQL-driven opportunity analysis into actionable, experiment-backed business decisions.
+**Goal:** To move from suspicion ("low content score hurts bookings") to evidence ("here 
+is the exact CVR lift, its statistical significance, and the annualised revenue impact if 
+we scale this fix to all eligible hotels").
 
-**Goal:** Identify underperforming hotels using benchmark analysis, estimate revenue opportunity gaps, and determine whether improving hotel content quality leads to a statistically significant increase in conversion rate.
+**Skills:** SQL (CTEs, Views, CASE classification, multi-table JOINs, DATEDIFF, 
+aggregations), experiment design, hypothesis testing, sample size & power analysis, 
+two-proportion Z-test, guardrail metrics, novelty effect check, revenue modelling.
 
-**Skills:** SQL (CTEs, JOINs, Window Functions, KPI Analysis, Benchmark Comparison, Revenue Opportunity Analysis), A/B Testing & Hypothesis Testing (Two-Proportion Z-Test, Confidence Intervals, Guardrail Metrics), EDA, Statistical Analysis, Business Problem Solving
-
-**Tools Used:** MS SQL Server, Python (Pandas, NumPy, SciPy, Statsmodels), Jupyter Notebook, GitHub
+**Tools Used:** MS SQL Server, Python (Pandas, NumPy, SciPy, Statsmodels)
 
 **Results:**
-1. Identified hotels with **high impressions but low CVR** — flagged as immediate revenue recovery opportunities using benchmark comparison in SQL.
-2. Estimated **revenue gap** across underperforming hotels by comparing actual vs. benchmark conversion rates on trailing 90-day data.
-3. Poor **content quality and pricing competitiveness** were the primary drivers of booking underperformance; inventory gaps further reduced revenue potential.
-4. A/B test confirmed that improving hotel content quality produced a **statistically significant conversion uplift** (two-proportion z-test, p < 0.05).
-5. Guardrail metric checks and pre-experiment balance validation ensured experiment integrity before drawing conclusions.
+1. *SQL Finding:* Content gap is the #1 failure mode by total revenue gap across the 
+   portfolio — hotels with content score <60 show significantly higher revenue gaps vs 
+   benchmark than hotels above the threshold.
+2. *Experiment Result:* Treatment arm delivered a **+11.9% CVR lift** (p < 0.001, 
+   statistically significant). Guardrail check confirmed no increase in cancellation rate 
+   — the lift was clean. Weekly trend analysis ruled out any novelty effect across all 6 
+   weeks.
+3. *Revenue Impact:* Rolling the fix out to all 339 eligible hotels projects an 
+   **annualised revenue lift of ~$1.74M** (based on avg ADR of $66.46 and avg stay of 
+   2.5 nights).
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Growth-Opportunities-Identification-and-A-B-Testing)
+[![SQL Queries](https://img.shields.io/badge/SQL-View_Queries-CC2927?logo=microsoftsqlserver&logoColor=white)](https://github.com/Monika-Jhajhra/Growth-Opportunities-Identification-and-A-B-Testing/blob/main/growth_analytics_sql_queries.sql)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Growth-Opportunities-Identification-and-A-B-Testing)
