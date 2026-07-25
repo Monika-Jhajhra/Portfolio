@@ -123,7 +123,7 @@ Pivot Charts, calculated fields, KPI reporting, dashboard design, business insig
 3. *Seasonal Insight:* Sales peak in March and June — identified as optimal windows for 
    promotional campaigns; August and December are the slowest months.
 
-[![Open Dashboard](https://img.shields.io/badge/Excel-Open_Dashboard-217346?logo=microsoftexcel&logoColor=white)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
+[![Open Dashboard](https://img.shields.io/badge/Excel-Open_Dashboard-217346?logo=microsoftexcel&logoColor=white)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard/blob/main/Coffee%20Beans%20Sales%20Dashboard.xlsx)
 
 ---
 ### Project 6: Growth Analytics & A/B Testing — Hotel Platform Analysis
