@@ -46,25 +46,24 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation.ipynb)
 
 ---
-### Project 3: Electric Vehicle Market Analysis
+### Project 3: Electric Vehicle (EV) Market Analysis
+<center><img src="EV_Market_Aanlysis_Project_Image.png"/></center>
 
-<center><img src="EV Project Image.png"/></center>
+**Overview:** A market intelligence study of India's EV landscape (FY 2022–2024) built for AtliQ Motors — a U.S.-based EV company with 25% North American market share but less than 2% in India. The analysis covers competitor mapping, state-level penetration rates, revenue growth, charging infrastructure gaps, and 2030 sales projections to inform their India entry strategy.
 
-**Overview:** This project analyzes Electric Vehicle market in India, focusing on market trends, sales growth and revenue projections.The analysis aims to support AtliQ Motors in understanding the current EV landscape and informing their expansion strategy in the Indian market.
+**Goal:**
+1. Identify the top competitors in the 2-Wheeler and 4-Wheeler EV segments.
+2. Determine the best states and month to launch — and which to avoid entirely.
+3. Deliver three prioritised, data-backed recommendations for AtliQ Motors' India expansion.
 
-**Goal:** 
-1. Analyze EV sales data to identify growth trends.
-2. Determine the competitive landscape in the Indian EV market.
-3. Recommend optimal Indian states for launching new EV products.
+**Skills:** Data collection from government sources, SQL (DDL, DML, CTEs, aggregations), CAGR & penetration rate analysis, geographic segmentation, revenue modelling, Data Visualization, PowerPoint storytelling (Situation–Complication–Resolution framework).
 
-**Skills:** data collection, data cleaning, SQL( DDL, DML, CTEs, etc), Mathematical techniques, Data Visualization, Powerpoint Report.
+**Tools Used:** MS SQL Server, Tableau, PowerPoint.
 
-**Tools Used:** MS SQL Server, Tableau, Powerpoint.
-
-**Result:** 
-1. *Growth Trends:* Significant growth observed in the 2-Wheeler and 4-Wheeler segments from 2022 to 2024.
-2. *Market opportunities:* Identified Indian states with high potential for new EV launches.
-3. *Competitor landscape:* Overview of key competitors and their market share.
+**Results:**
+1. *Competitor Landscape:* OLA Electric and TVS dominate 2-Wheelers; Tata Motors sells ~3× more than the next 4 competitors combined in 4-Wheelers.
+2. *Launch Strategy:* Recommended Goa (24% penetration) for 2-Wheelers and Karnataka for 4-Wheelers — backed by 15% capital subsidy, SGST refunds, and interest-free loans for manufacturers. Optimal launch month: **March** (peak sales at 292K units).
+3. *Market Opportunity:* Maharashtra, Kerala, Gujarat, and Karnataka projected to reach **8–13 million EV sales by 2030** — highest growth corridor in India.
 
 [![Report](https://img.shields.io/badge/Excel-Report(pdf)-green?logo=Excel)](https://github.com/Monika-Jhajhra/EV-Market-Analysis-Project/blob/main/Electric%20Vehicle%20Market%20Analysis.pdf)
 
