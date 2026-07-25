@@ -94,7 +94,7 @@ Seaborn, Plotly)
 3. Resolved key challenges: self-recommendation bug, 65% null subtitle column, and 
    duplicate entries — keeping only the highest-rated version of each book.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Book-Recommendation-System)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Book-Recommendation-System/blob/main/Book_Recommendation_System.ipynb)
 
 ---
 ### Project 5: Coffee Beans Sales Dashboard
