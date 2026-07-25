@@ -97,23 +97,33 @@ Seaborn, Plotly)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Book-Recommendation-System/blob/main/Book_Recommendation_System.ipynb)
 
 ---
-### Project 5: Coffee Beans Sales Dashboard
+### Project 4: Coffee Beans Sales Dashboard
+<center><img src="coffee_sales_image.png"/></center>
 
-<center><img src="Coffee Sales Dash Image.png"/></center>
+**Overview:** Built an end-to-end interactive sales dashboard for a specialty coffee retailer 
+operating across 3 countries. Transformed raw multi-table data (orders, customers, products) 
+into a single filterable dashboard giving instant visibility into revenue, profit, product 
+performance, and customer trends — covering $43,380 in sales across 2019–2022.
 
-**Overview:** This project features a Dynamic Sales Dashboard built in Microsoft Excel to analyze and visualize sales performance data for a Coffee Beans business. It provides valuable insights into total sales and profit by country-wise and time-based to support data-driven decisions.
+**Goal:** To give the sales and marketing team a single view of performance — by coffee type, 
+roast profile, country, pack size, and time period — so they can make faster, data-backed 
+decisions on promotions, pricing, and market focus.
 
-**Goal:** To design an interactive excel dashboard that allows stakeholders to monitor key sales metrics, identify top performing products/ cities and track sales trends over time.
+**Skills:** Data modelling across multiple tables, XLOOKUP, INDEX MATCH, Pivot Tables & 
+Pivot Charts, calculated fields, KPI reporting, dashboard design, business insight generation.
 
-**Skills:** Data aggregation, Dashboard design, metric building, data analysis.
+**Tools Used:** Microsoft Excel
 
-**Tools Used:** Microsoft Excel (Pivot Tables & Pivot Charts, Slicers for interactivity, etc.)
+**Results:**
+1. *Product Insight:* Liberica beans generated the highest profit ($1,482) despite being a 
+   niche variety — outperforming mainstream Arabica ($1,027) by 44%, driven by a stronger 
+   price-per-kg premium.
+2. *Market Insight:* The US dominates at 79.6% of total sales ($34,513), but the UK is 
+   significantly underpenetrated at just 6% — flagged as a growth opportunity.
+3. *Seasonal Insight:* Sales peak in March and June — identified as optimal windows for 
+   promotional campaigns; August and December are the slowest months.
 
-**Result:** 
-1. Identified Profit by Coffee Type and Profit % by packet size.
-2. Identified top 3 best performing cities.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
+[![Open Dashboard](https://img.shields.io/badge/Excel-Open_Dashboard-217346?logo=microsoftexcel&logoColor=white)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
 
 ---
 ### Project 6: Growth Opportunities Identification & A/B Testing: Uncovering Conversion Gaps & Validating Content Quality
