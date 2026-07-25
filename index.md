@@ -43,7 +43,7 @@
 2. Found Campaign 2 (New Arrivals Push) underperforming at <1.5% conversion — recommended pausing and reallocating budget.
 3. Delivered 6 prioritised actions with estimated revenue impact of **~$170K–$255K**.
 
-[![Open Notebook](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation.ipynb)
 
 ---
 ### Project 3: Electric Vehicle Market Analysis
