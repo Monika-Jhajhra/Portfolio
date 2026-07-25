@@ -97,7 +97,7 @@ Seaborn, Plotly)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Book-Recommendation-System/blob/main/Book_Recommendation_System.ipynb)
 
 ---
-### Project 4: Coffee Beans Sales Dashboard
+### Project 5: Coffee Beans Sales Dashboard
 <center><img src="coffee_sales_image.png"/></center>
 
 **Overview:** Built an end-to-end interactive sales dashboard for a specialty coffee retailer 
@@ -126,8 +126,8 @@ Pivot Charts, calculated fields, KPI reporting, dashboard design, business insig
 [![Open Dashboard](https://img.shields.io/badge/Excel-Open_Dashboard-217346?logo=microsoftexcel&logoColor=white)](https://github.com/Monika-Jhajhra/Coffee-Beans-Sales-Dashboard)
 
 ---
-### Project 1: Growth Analytics & A/B Testing — Hotel Platform Analysis
-<center><img src="AB Testing Project Image.png"/></center>
+### Project 6: Growth Analytics & A/B Testing — Hotel Platform Analysis
+<center><img src="AB_Test_Executive_Summary.png"/></center>
 
 **Overview:** A two-part growth analysis on a hotel booking platform's mid-tail hotel 
 portfolio. First used SQL across 6 relational tables to identify exactly where and why 
