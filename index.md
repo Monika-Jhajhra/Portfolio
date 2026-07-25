@@ -69,24 +69,32 @@
 
 ---
 ### Project 4: Book Recommendation System
+<center><img src="book_title.png"/></center>
 
-<center><img src="Book Rec Project Image.png"/></center>
+**Overview:** Built a content-based book recommendation engine on a dataset of 6,000+ books. 
+The system analyses each book's description, genre, and author style to find thematically 
+similar titles — going beyond surface-level genre tags to match books by what they're 
+actually *about*.
 
-**Overview:** This project is a Content-based Book Recommendation System that suggests books similar to the one provided by the users. It analyzes various features of the input book and finds the most relevant matches using text-based similarity techniques.
+**Goal:** To recommend 10 personalised books for any given title using text similarity 
+techniques, solving the "what do I read next?" problem.
 
-**Goal:** To built a content-based filtering system that recommends books similar to a given book title using metadata such as the books title, author, description, etc.
+**Skills:** Data cleaning & deduplication, NLP text preprocessing (stopword removal, 
+lemmatization), TF-IDF vectorization, cosine similarity, feature weighting & iterative 
+tuning, EDA.
 
-**Skills:** Data cleaning & preprocessing, Text Vectorization, Similarity measurement, Text Processing with NLTK, Feature Engineering, EDA
+**Tools Used:** Python (libraries used — Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, 
+Seaborn, Plotly)
 
-**Tools Used:** Python ( Pandas – for data manipulation, Seaborn & Matplotlib – for data visualization ,scikit-learn – for cosine similarity, MinMaxScaler, and TfidfVectorizer,
-NLTK – for text preprocessing (stopwords, lemmatization))
+**Results:**
+1. Built two model versions — v2 (60% description weight) outperformed v1 on thematic 
+   coherence across test cases including Harry Potter, The Alchemist, and The Great Gatsby.
+2. Engineered a weighted similarity score across 3 text features (description, category, 
+   author) after finding genre tags alone were too broad to produce meaningful matches.
+3. Resolved key challenges: self-recommendation bug, 65% null subtitle column, and 
+   duplicate entries — keeping only the highest-rated version of each book.
 
-**Result:** 
-1. Sucessfully recommends top 10 books similar to a given title.
-2. Tested with several book titles- results were relevant, meaningful, and aligned well with input themes.
-3. Effecient performance even on a large dataset with thousands of books.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Monika-Jhajhra/Book-Recommendation-System)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Book-Recommendation-Portfolio-Project/blob/main/Book_Recommendation_System.ipynb)
 
 ---
 ### Project 5: Coffee Beans Sales Dashboard
