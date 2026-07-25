@@ -28,21 +28,20 @@
 
 ---
 ### Project 2: Customer Segmentation Analysis
-
 <center><img src="Customer Segmentation Project Image.png"/></center>
 
-**Overview:** This project focusses on segmenting customer base using various data analysis technique to gain insights into their behavior, preferences and response to marketing campaigns. 
+**Overview:** Analysed a 2,240-customer retail CRM dataset to identify why uniform marketing campaigns were generating low conversions. Used the RFM (Recency, Frequency, Monetary) framework to segment customers by actual purchasing behaviour and mapped 5 named campaigns to the segments that converted best.
 
-**Goal:** To help business better understand their customers and tailor their marketing strategies for maximum effectiveness.
+**Goal:** To give the marketing team a data-backed answer to: *"Who are our customers really, and what's the smartest way to reach each group?"*
 
-**Skills:** EDA, data transformations and aggregations, customer segmentations, RFM Analysis (Recency, Frequency, Monetary Value), Data Visualization.
+**Skills:** Data cleaning & outlier detection, feature engineering, RFM segmentation, ANOVA statistical validation, campaign conversion rate analysis, Data Visualization.
 
-**Tools Used:** Python (libraries used- Pandas, Matplotlib, Seaborn, Plotly)
+**Tools Used:** Python (libraries used — Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, SciPy)
 
-**Result:** 
-1. Targeted campaigns based on income segments.
-2. Improving campaign effectiveness.
-3. Retaining key customer segments, leveraging demographic insights.
+**Results:**
+1. Identified 6 distinct customer segments with statistically validated spend differences (ANOVA p < 0.05).
+2. Found Campaign 2 (New Arrivals Push) underperforming at <1.5% conversion — recommended pausing and reallocating budget.
+3. Delivered 6 prioritised actions with estimated revenue impact of **~$170K–$255K**.
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/Monika-Jhajhra/Customer-Segmentation-Portfolio-Project/blob/main/Customer%20Segmentation%20Analysis.ipynb)
 
